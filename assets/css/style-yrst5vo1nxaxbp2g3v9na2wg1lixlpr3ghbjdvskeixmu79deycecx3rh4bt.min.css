@@ -5,10 +5,12 @@
 
  .header-img {
  	display: block;
- 	width: 100px;
- 	height: 100px;
+ 	width: 180px;
+ 	height: 180px;
  	border-radius: 99999px;
  	margin: 0 auto;
  	overflow: hidden;
+ 	background: url(https://sfault-avatar.b0.upaiyun.com/874/281/874281467-56e2693093e02_huge256) no-repeat center;
+ 	background-size: cover;
  	margin-bottom: 50px;
  }
